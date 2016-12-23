@@ -13,7 +13,7 @@ output: html_document
 library(lattice)
 library(knitr)
 opts_chunk$set(echo=TRUE,results="show",cache=TRUE)
-setwd('C:/Users/denfordm/Desktop/Coursera/RResearch')
+setwd('C:/Users/denfordm/Desktop/Coursera/Reproducible_Research')
 ```
 I will first load the data
 
